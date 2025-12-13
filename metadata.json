@@ -1,0 +1,8 @@
+{
+  "name": "AI-FIR Vision",
+  "description": "A unified AI platform for filing and investigating First Information Reports (FIRs), empowering citizens and law enforcement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
